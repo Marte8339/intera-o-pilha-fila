@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732041728 source:c:\users\talvez\desktop\pastas\programação\sistemas\c\projeto_progavan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
